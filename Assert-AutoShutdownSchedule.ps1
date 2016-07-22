@@ -1,7 +1,7 @@
 <#
     .SYNOPSIS
         This Azure Automation runbook automates the scheduled shutdown and startup of virtual machines in an Azure subscription. 
-
+        Made this change to see how Git works.
     .DESCRIPTION
         The runbook implements a solution for scheduled power management of Azure virtual machines in combination with tags
         on virtual machines or resource groups which define a shutdown schedule. Each time it runs, the runbook looks for all
